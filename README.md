@@ -2,6 +2,8 @@
 
 Este proyecto demuestra cómo configurar una API en Flask con PostgreSQL utilizando Docker Compose. Es parte del ejercicio del taller sobre la orquestación de servicios con Docker Compose.
 
+**Recomendación:** el archivo `nota.md` fue hecho para evidenciar el proceso real de creacion del sistema, pero puede ser agregado a `.gitignore` ya que no tiene funcion practica en la implementación.
+
 ## Objetivos del Ejercicio
 
 1. Configurar y ejecutar múltiples servicios con Docker Compose.
